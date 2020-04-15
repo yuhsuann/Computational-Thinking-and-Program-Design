@@ -1,6 +1,0 @@
-name=input("請問同學名字？")
-print("你好，",name)
-age=input("請問幾歲？")
-print("原來你",age,"歲")
-weight=input("請問體重？")
-print("體重為",weight)
